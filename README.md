@@ -1,2 +1,2 @@
 # montedice
-Python module for exploring different dice game strategies
+Python module for exploring different dice game strategies.
